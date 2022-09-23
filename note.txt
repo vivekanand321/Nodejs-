@@ -1,0 +1,1 @@
+Server->device which can communicate each other and connected with internet
